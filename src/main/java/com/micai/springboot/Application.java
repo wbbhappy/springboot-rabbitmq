@@ -3,7 +3,6 @@ package com.micai.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
-
 /**
  * Spring Boot应用启动类
  * @author zhaoxinguo on 2017/8/21.
