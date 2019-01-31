@@ -22,12 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="micai-springboot-rabbitmq-7" />
+        <!--<module name="micai-springboot-rabbitmq-7" />-->
         <module name="springboot-rabbitmq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="micai-springboot-rabbitmq-7" target="1.6" />
+      <!--<module name="micai-springboot-rabbitmq-7" target="1.6" />-->
       <module name="springboot-rabbitmq" target="1.8" />
     </bytecodeTargetLevel>
   </component>
