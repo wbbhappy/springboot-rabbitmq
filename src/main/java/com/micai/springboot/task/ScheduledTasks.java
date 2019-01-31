@@ -8,9 +8,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 /**
  * 描述：定时任务
- * <p>
- * Author: 赵新国
- * Date: 2017/11/3 15:10
  */
 @Component
 public class ScheduledTasks {

@@ -5,9 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 /**
  * 描述：消息生产者
- * <p>
- * Author: 赵新国
- * Date: 2017/11/3 15:37
  */
 @Component
 public class Sender extends BaseConfig{
