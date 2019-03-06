@@ -36,4 +36,5 @@ RabbitMQ的五种队列：
     4、路由模式:EXCHANGE_NAME
     5、主题模式:EXCHANGE_NAME
     6、四种交换器
+    
 参考网址：https://www.cnblogs.com/ysocean/p/9251884.html#_label2
