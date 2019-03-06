@@ -5,3 +5,5 @@
 3.启动Application.java类
 
 4.执行RabbitMQTest.java类的send方法
+
+对于Queue模式，一个发布者发布消息，下面的接收者按队列顺序接收，比如发布了10个消息，两个接收者A,B那就是A,B总共会收到10条消息，不重复。
